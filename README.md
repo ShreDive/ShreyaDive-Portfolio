@@ -5,7 +5,9 @@ MBA, Hult International Business School | San Francisco, CA August 2025
 Skills : Project Risk & Quality Management, Data Visualization, Ecosystem, Finance, Market Research, Innovation.
 
 ### Work Experience 
+
 Project Administrator @ Fujitsu Consulting 
+
 ● Reduced query resolution time by 67% (from 24 hours to 8 hours) by organizing team collaboration through best
 practice sharing and improved co-ordination.
 ● Streamlined ticket management by creating a resource allocation system, reducing customer first-response time by
@@ -17,7 +19,9 @@ Excel file, eliminating repeated mistakes and increasing quality from 70% to 90%
 ● Expanded team capacity by recruiting skilled new graduates and adopting Agile techniques, increasing ticket
 handling from 30 to 180 per day while staying within budget. This included leveraging technology for effective
 communication and management.
+
 Key Account Manager @ Kubota Corporation 
+
 ● Launched a market-fit product in Sri Lanka, increasing Kubota’s market share from 14% to 28% in five years while
 coordinating cross-functional teams across three countries using market research to identify needs.
 ● Implemented a shipment tracking system reducing delayed deliveries by 20% in two quarters while streamlining
